@@ -9,7 +9,7 @@ For the complete list of dependencies, please refer to the `requirements.txt` fi
 
 ## Acknowledgement
 - Thanks to the authors of [open_clip]（https://github.com/mlfoundations/open_clip) for their open-source code, which inspired and informed our development process.
-- Thanks to the authors of [Self-Gen-Typo-Attack]（https://github.com/mqraitem/Self-Gen-Typo-Attack) for their open-source code, which inspired and informed our development process.
+- Thanks to the authors of [Self-Gen-Typo-Attack]（https://github.com/mqraitem/Self-Gen-Typo-Attack) for their open-source code.
 - Additional thanks to ARR and NAACL 2025 reviewers for their valuable feedback.
 
 
